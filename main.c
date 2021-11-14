@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-
+//
 int main(void)
 {
 		int a,b;
@@ -8,4 +8,9 @@ int main(void)
 		b = 0;
 		printf("Hello world!\n");
 		return 0;
+}
+
+void func1(void)
+{
+		
 }
