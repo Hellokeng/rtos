@@ -3,6 +3,9 @@
 
 int main(void)
 {
+		int a,b;
+		a = 0;
+		b = 0;
 		printf("Hello world!\n");
 		return 0;
 }
